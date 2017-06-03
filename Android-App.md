@@ -1,0 +1,89 @@
+# Android App作品集
+
+# GOLOOK (2013/11 - 2015/5)
+
+2013/11 - 2014/3 接手維護第2版APP
+2014/5 - 2015/5 重新打造新版APP及整合新API(Volley)及數位集點([YAMAHA INFOSOUND™](https://archive.yamaha.com/ja/news_release/2013/13050701.html))等功能
+
+在此產品中也與日籍工程師和iOS夥伴溝通合作
+通過經濟部103年度通過智慧辨識服務推動計畫審核，於[COMPUTEX TAIPEI 2014](https://www.youtube.com/watch?v=22yMqF9U1lo)展出
+
+
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496473670391_device-2016-08-12-164315.png
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496473670280_device-2016-08-12-164622.png
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496473670294_device-2016-08-12-164652.png
+
+----------
+# 國旅優惠通 (2014/1 - 2014/4)
+
+GOLOOK帶來的衍伸專案，中國客戶想向中國國旅推廣一套適用於給旅行社帶中國觀光客到港旅遊購物時可導覽和折扣的App，開發技術整合AR擴增實境（[Metaio](http://www.metaio.eu/)）功能。
+
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496472855791_device-2014-01-06-182428.png
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496472860574_device-2014-01-06-182443.png
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496472877646_device-2014-01-06-182458.png
+
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496472944872_device-2014-01-06-182520.png
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496472944880_device-2014-01-06-182535.png
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496472944884_device-2014-01-06-184041.png
+
+----------
+# CyberSmart (2015/6 - 2015/11)
+
+App對象為公司客戶，展示公司capability
+功能為與smart router配對、設定及下載for router用app，可在local及remote環境作業
+
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496509720564_unnamed.png
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496509720559_unnamed+1.png
+
+
+
+----------
+# MyRouter (2015/11 - 2016/2)
+
+開發可操作及設定無線訊號延伸器(wi-fi repeater)及4x4 router的app
+跨部門合作案，對象為router, f/w, cloud team
+App Feature:
+
+1. Configure output power, radio schedule,guest network related settings...etc
+2. Support DLAN
+3. Receive proprietary muticast packet from device
+4. Backup and restore configuration
+
+
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496502882772_screen.png
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496502882776_screen2.png
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496502882782_screen3.png
+
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496502882785_screen4.png
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496502882791_screen5.png
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496502882794_screen6.png
+
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496502882797_screen7.png
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496502882800_screen8.png
+
+
+
+----------
+# 成龍快遞司機版 (2016/3 - 2016/8)
+
+由公司產品SoonSource為原型所發展的客製產品，對象為大台北地區快遞業界的元老成龍快遞。
+*最後因商業策略調整未上線
+
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496473728933_device-2016-08-15-143750.png
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496473728945_device-2016-08-15-143802.png
+
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496473728954_device-2016-08-15-143827.png
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496473728959_device-2016-08-15-143858.png
+
+----------
+# 建漢好聲音(2015/11, 2016/11)
+
+連續兩年在公司歌唱比賽活動用，2016年推廣至華碩於「歌神無雙」決賽活動中使用
+整合技術: Parse(2015)及Firebase(2016)
+
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496509964965_unnamed.webp
+https://d2mxuefqeaa7sj.cloudfront.net/s_112413788240AB8540937704847C1A0A71C3F0F6AAF80481C49EBCA4CCB8A8C9_1496509967731_unnamed+1.webp
+
+https://www.youtube.com/watch?v=bUt168yNi4I&
+
+
